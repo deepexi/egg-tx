@@ -9,7 +9,7 @@
 [npm-image]: https://img.shields.io/npm/v/egg-tx.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-tx
 [travis-image]: https://travis-ci.org/deepexi/egg-tx.svg?branch=master
-[travis-url]: https://travis-ci.org/deepexi/egg-tx
+[travis-url]: https://travis-ci.org/deepexi/egg-tx.svg?branch=master
 [codecov-image]: https://codecov.io/gh/deepexi/egg-tx/branch/master/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/deepexi/egg-tx
 [david-image]: https://img.shields.io/david/eggjs/egg-tx.svg?style=flat-square
