@@ -5,7 +5,7 @@ const CallCollectHandler = require('./lib/call_collect_handler');
 module.exports = class AppBootHook {
   constructor(app) {
     this.app = app;
-    app.config.coreMiddleware.push('txHandler');
+    this.app.config.appMiddleware.push('txHandler');
   }
 
   configWillLoad() {

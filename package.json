@@ -1,6 +1,6 @@
 {
   "name": "egg-tx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg 事务插件",
   "eggPlugin": {
     "name": "tx",
@@ -63,12 +63,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LinYuanBaoBao/egg-tx.git"
+    "url": "https://github.com/deepexi/egg-tx.git"
   },
   "bugs": {
-    "url": "https://github.com/LinYuanBaoBao/egg-tx/issues"
+    "url": "https://github.com/deepexi/egg-tx/issues"
   },
-  "homepage": "https://github.com/LinYuanBaoBao/egg-tx.git#readme",
+  "homepage": "https://github.com/deepexi/egg-tx.git#readme",
   "author": "lyTongXue",
   "license": "MIT"
 }

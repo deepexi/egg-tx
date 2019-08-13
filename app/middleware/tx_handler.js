@@ -2,7 +2,7 @@
 const TxManager = require('../../lib/tx_manager');
 
 module.exports = () => {
-  return async function txHan(ctx, next) {
+  return async function txHandler(ctx, next) {
     const txManager = new TxManager(ctx);
     const tx = txManager.get();
     if (tx) {
