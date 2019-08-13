@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "no-useless-constructor": "off",
+    "no-empty-function": "off"
+  }
+}
