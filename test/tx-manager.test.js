@@ -10,7 +10,7 @@ describe('test/tx-manager.test.js', () => {
 
   before(async () => {
     app = mock.app({
-      baseDir: `apps/tx-manager`,
+      baseDir: 'apps/tx-manager',
     });
     await app.ready();
   });

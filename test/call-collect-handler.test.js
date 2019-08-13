@@ -9,7 +9,7 @@ describe('test/call-collect-handler.test.js', () => {
 
   before(async () => {
     app = mock.app({
-      baseDir: `apps/call-collect-handler`,
+      baseDir: 'apps/call-collect-handler',
     });
     await app.ready();
   });
