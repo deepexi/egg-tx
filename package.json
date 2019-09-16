@@ -1,6 +1,6 @@
 {
   "name": "egg-tx",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "egg 事务插件",
   "eggPlugin": {
     "name": "tx",
